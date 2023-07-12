@@ -1,0 +1,7 @@
+grafana-dev-HNBC: 172.17.0.2:3002
+grafana-dev-T6oC: 172.17.0.3:3001
+nodered-dev-QNDs: 172.17.0.5:1980
+influxdb-dev-y1My: 172.17.0.4:8186
+grafana-prod-Bhmw: 172.17.0.8:3000
+influxdb-prod-E8HN: 172.17.0.6:8086
+nodered-prod-5q3t: 172.17.0.7:1880
